@@ -78,4 +78,3 @@ const [movies, setmovies] = useState([]);
 
 - **Abbas Sultan** - [**Github**](https://github.com/cssedge)
 
-```
